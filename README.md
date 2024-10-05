@@ -35,6 +35,7 @@ This project is a background system software designed to capture audio conversat
 
 5. **Run the Application**:
    - Execute the application by running the compiled `.exe` file located in the project folder.
+   - ( Complete source code is also provided - app.py )
 
 ## Usage
 
