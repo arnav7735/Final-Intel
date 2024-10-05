@@ -1,0 +1,7 @@
+whisper
+numpy
+faiss-cpu  # or faiss-gpu if you're using the GPU version
+sentence-transformers
+langchain-google-genai
+langchain-core
+python-dotenv
